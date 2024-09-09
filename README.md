@@ -32,7 +32,7 @@ Graphs are generated to visualize the performance of each scheduling algorithm:
 
 ## Usage
 
-1. Clone the repository:
-2. Navigate to the project directory:
+1. add <input_data_excel_sheet> into your drive:
+2. open <Scheduling_Algorithms_file> in colab: 
 3. Install dependencies (if any):
 4. Run algorithm implementation to generate results.
